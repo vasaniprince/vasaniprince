@@ -7,7 +7,6 @@
 - 💻 AI Engineer Intern @ FutureSmart AI  
 - 🤖 I specialize in **LangChain, LangGraph, FastAPI, RAG, Streamlit**  
 - 🛠️ Building **real-world AI tools** that bridge natural language & structured data  
-- 🎯 On a mission to earn **₹20L+ in 10 months** by freelancing, launching tools, and solving real problems
 
 ---
 
@@ -46,7 +45,7 @@
 ---
 
 ⭐ **Pinned Repos**
-> Don’t forget to check out my pinned projects like `ChatSQL`, `FitFinder`, and `AIDRP` above! Each one solves real-world problems with powerful GenAI integrations.
+> Don’t forget to check out my pinned projects like `ChatSQL`, `FitFinder`, `BusinessTransformer` and `AIDRP` above! Each one solves real-world problems with powerful GenAI integrations.
 
 ---
 
