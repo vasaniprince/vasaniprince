@@ -39,7 +39,7 @@
 
 📬 **Let's Connect**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vasaniprince/)
-- 🌐 [Portfolio](https://vasaniprince.github.io) *(Coming Soon)*
+- 🌐 [Portfolio](https://vasaniprince.github.io)
 - ✉️ princeavasani@gmail.com
 
 ---
